@@ -1,0 +1,1 @@
+../configure --target=nvptx-none --enable-as-accelerator-for=x86_64-pc-linux-gnu --with-build-time-tools=[install-nvptx-tools]/nvptx-none/bin --disable-sjlj-exceptions --enable-newlib-io-long-lon
